@@ -50,12 +50,12 @@ This project involves building a robust predictive model using structured housin
 
 ## 📁 Project Structure
 
-├── data/ # Dataset folder
-├── notebooks/ # Jupyter notebooks (EDA, Modeling)
-├── models/ # Saved trained models
-├── main.py # Script for model training
+├── README.md/ # This file
+├── data_description.txt/ # Details about data
+├── main.ipynb # Script for model training
 ├── requirements.txt # Python dependencies
-└── README.md # This file
+├── test.csv  # test data
+└── train.csv # training data
 
 🔗 Resources
 📊 Kaggle Competition: House Prices: Advanced Regression Techniques
@@ -64,7 +64,7 @@ This project involves building a robust predictive model using structured housin
 This project is for learning and demonstration purposes in the field of Machine Learning and Data Science.
 
 📬 Connect with Me
-GitHub: @namannayan
+GitHub: https://github.com/namannayan
 
 LinkedIn: https://www.linkedin.com/in/namannayan/
 
